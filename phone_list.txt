@@ -1,0 +1,11 @@
+phone0.jpg 0.0010
+phone1.jpg 0.0020
+phone2.jpg 0.0040
+phone3.jpg 0.0080
+phone4.jpg 0.0167
+phone5.jpg 0.0333
+phone6.jpg 0.0667
+phone7.jpg 0.1250
+phone8.jpg 0.2500
+phone9.jpg 0.5000
+phone10.jpg 1.0000

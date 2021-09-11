@@ -1,0 +1,11 @@
+phone0_gray.jpg 0.0010
+phone1_gray.jpg 0.0020
+phone2_gray.jpg 0.0040
+phone3_gray.jpg 0.0080
+phone4_gray.jpg 0.0167
+phone5_gray.jpg 0.0333
+phone6_gray.jpg 0.0667
+phone7_gray.jpg 0.1250
+phone8_gray.jpg 0.2500
+phone9_gray.jpg 0.5000
+phone10_gray.jpg 1.0000

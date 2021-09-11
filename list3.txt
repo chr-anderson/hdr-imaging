@@ -1,0 +1,12 @@
+chair0.jpg 0.015
+chair1.jpg 0.03
+chair2.jpg 0.06
+chair3.jpg 0.12
+chair4.jpg 0.25
+chair5.jpg 0.5
+chair6.jpg 1
+chair7.jpg 2
+chair8.jpg 4
+chair9.jpg 8
+chair10.jpg 15
+chair11.jpg 30
